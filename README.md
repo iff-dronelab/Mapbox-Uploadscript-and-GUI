@@ -1,4 +1,4 @@
-# Mapbox Uploadskript and GUI
+# Mapbox Uploadscript and GUI
 This is the repository for uploading new Tilesets from a local computer to your personal Mapbox Database using Mapbox API.
 It is currently in alpha state, so don't expect a polished and bugfree application.
 
@@ -69,5 +69,5 @@ startingtileset = *Starting running number of your dataset to upload first*
 **Step 3:** Start script or GUI:
 
 ```sh
-$ pyhton UploadGUI.py
+$ python UploadGUI.py
 ```
